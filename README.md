@@ -2,6 +2,9 @@
 
 **Status:** Starter MVP for local development. All readings are synthetic; no real campus sensors are connected.
 
+## ppt
+https://drive.google.com/file/d/1AbA9Qok4yQs7ZsRPnlde0RnOhHZqq3Du/view?usp=sharing
+
 ## Live Dashboard
 https://ecopulse-ai-w0pl.onrender.com/
 
