@@ -13,6 +13,16 @@
 - PostgreSQL/Supabase-ready action persistence (optional; app runs without DB)
 - ESP32 integration intentionally deferred
 
+<img width="1364" height="678" alt="Screenshot 2026-10-10 064647" src="https://github.com/user-attachments/assets/9b48528e-0ec9-41bc-9d46-07ef5702d292" />
+<img width="1365" height="679" alt="Screenshot 2026-10-10 065241" src="https://github.com/user-attachments/assets/f8d3e404-5e52-4d5e-8eee-bde3ed59f066" />
+<img width="1350" height="675" alt="Screenshot 2026-10-10 065842" src="https://github.com/user-attachments/assets/e1e3106f-6a37-42f5-a320-89ebbb7fc65d" />
+<img width="1356" height="680" alt="Screenshot 2026-10-10 065906" src="https://github.com/user-attachments/assets/f0b9f858-40da-4d98-9afe-fe45bb38eaaf" />
+<img width="1365" height="674" alt="Screenshot 2026-10-10 065948" src="https://github.com/user-attachments/assets/4595b8a2-b07a-42c4-9f56-81dc2efa29b4" />
+<img width="1365" height="679" alt="Screenshot 2026-10-10 070013" src="https://github.com/user-attachments/assets/6bac0ea8-f55e-4cfe-a478-8719f8dd5577" />
+<img width="1365" height="671" alt="Screenshot 2026-10-10 070352" src="https://github.com/user-attachments/assets/edaa4054-6298-4511-bc59-2dc673e1dbb0" />
+<img width="1365" height="670" alt="Screenshot 2026-10-10 070537" src="https://github.com/user-attachments/assets/0a0c7620-dc59-4971-8213-38429fa11de7" />
+
+
 ## Project layout
 ```text
 ecopulse-ai/
