@@ -2,6 +2,12 @@
 
 **Status:** Starter MVP for local development. All readings are synthetic; no real campus sensors are connected.
 
+## Live Dashboard
+https://ecopulse-ai-w0pl.onrender.com/
+
+## API Documentation
+https://ecopulse-ai-api.onrender.com/docs
+
 ## Included
 - React + Vite + Tailwind CSS dashboard
 - FastAPI REST backend with Swagger docs
